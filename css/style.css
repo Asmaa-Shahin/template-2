@@ -476,8 +476,10 @@ padding: 10px;
   max-width:100%;
   max-height: 100%;
  }
- .choose-us .info{
-  padding: 0;
+.choose-us .info{
+padding: 0;
+min-height: 600px!important;
+
  }
  
  .choose-us .info:last-child{
@@ -486,13 +488,15 @@ padding: 10px;
   color:#fff;
  }
   .choose-us .h1{
-   margin:10px
+   margin:20px;
+   margin-bottom: 20px;
   }
   .choose-us p{
-   margin-top:10px;
+   margin-top:30px;
    margin-left: 10px;
    line-height: 2;
    font-size:18px;
+   margin-bottom: 40px;
   }
   .choose-us .read-more{
  padding:6px;
