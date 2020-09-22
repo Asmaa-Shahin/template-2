@@ -378,6 +378,9 @@
   display: inline-block;
   
  }
+.testimontial .carousel-caption {
+    bottom: 100px!important;
+}
  .pricing-table{
   padding:100px 0 100px;
   background-color:#f7f7f7;
