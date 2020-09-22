@@ -240,6 +240,7 @@
  
   
  }
+
  .featured-work p{
   width:70%;
   line-height: 1.6;
@@ -259,6 +260,11 @@
    -o-transition:all .5s ease-in-out;
     transition:all .5s ease-in-out;
   
+ }
+ @media (max-width:576px){
+   .featured-work ul li{
+    margin-right: 10px;
+   }
  }
   .featured-work ul li.active,
   .featured-work ul li:hover{
