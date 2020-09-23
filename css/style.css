@@ -179,17 +179,8 @@
   margin-bottom: 20px;
  }
 
-@media (max-width: 992px)
-.overveiw h2 {
-    font-size: 50px!important;
- 
-}}
-@media (max-width: 576px)
- .overveiw h2{
- font-size:27px
-  
-}}
- 
+
+
   .overveiw p{
   width:100%;
   line-height: 2;
@@ -207,8 +198,14 @@
    margin-bottom: 10px;
 
  }
+
+  @media (max-width: 576px)
+ .overveiw h2{
+ font-size:27px
   
- }
+}}
+ 
+ 
   .overveiw h4{
   letter-spacing: 2px;
   font-weight: normal;
