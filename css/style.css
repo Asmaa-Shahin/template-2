@@ -195,6 +195,10 @@
   color:#937C7C;
   
  }
+  .overveiw .container{
+   padding-left:0;
+   padding-right:0;
+  }
  .overveiw h2{
   font-size: 20px;
    margin-bottom: 10px;
