@@ -173,7 +173,7 @@
  }
  
  .overveiw h2{
-  font-size: 50px;
+  font-size: 25px!important;
   text-transform: uppercase;
   font-weight: bold;
   margin-bottom: 20px;
@@ -193,15 +193,10 @@
    padding-left:0;
    padding-right:0;
   }
- .overveiw h2{
-  font-size: 20px;
-   margin-bottom: 10px;
-
- }
-
+ 
   @media (min-width: 576px)
  .overveiw h2{
- font-size:50px
+ font-size:50px!important;
   
 }}
  
