@@ -194,14 +194,14 @@
    padding-right:0;
   }
  .overveiw h2{
-  font-size: 50px;
+  font-size: 20px;
    margin-bottom: 10px;
 
  }
 
-  @media (max-width: 576px)
+  @media (min-width: 576px)
  .overveiw h2{
- font-size:27px
+ font-size:50px
   
 }}
  
