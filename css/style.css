@@ -184,14 +184,11 @@
     font-size: 50px!important;
  
 }}
- .overveiw p{
-  width:100%;
-  line-height: 2;
-  font-size: 20px;
-  margin: 0 auto 15px;
-  color:#937C7C;
+@media (max-width: 576px)
+ .overveiw h2{
+ font-size:27px
   
- }
+}}
  
   .overveiw p{
   width:100%;
